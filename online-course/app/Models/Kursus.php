@@ -11,7 +11,7 @@ class Kursus extends Model
     protected $fillable = ['judul', 'deskripsi', 'durasi'];
 
     //Hubungan atau relasi ke tabel Materi dengan One to Many
-    public function materi()
+    public function materis()
     {
         return $this->hasMany(Materi::class);
     }

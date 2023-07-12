@@ -13,7 +13,7 @@
                         Kursus
                     </a>
                     <div class="sb-sidenav-menu-heading">Data Materi</div>
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="{{route('materi.index')}}">
                         <div class="sb-nav-link-icon"><i class="fas fa-solid fa-list-ol"></i></div>
                         Materi
                     </a>
