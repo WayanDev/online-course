@@ -29,7 +29,6 @@
 ![Screenshot 2023-07-12 215936](https://github.com/WayanDev/online-course/assets/113874200/9aa0bee8-9a7f-4d15-9383-ab9b794835fe)
 
 ## Tampilan CRUD Kursus
-![Screenshot 2023-07-12 215936](https://github.com/WayanDev/online-course/assets/113874200/e3993724-a915-4d36-a432-33d57b54935f)
 ![Screenshot 2023-07-12 220105](https://github.com/WayanDev/online-course/assets/113874200/57e1b823-bd8e-4054-9fc8-9cf9351e12d4)
 ![Screenshot 2023-07-12 220122](https://github.com/WayanDev/online-course/assets/113874200/74a9f7c6-34d0-4b0c-ab1e-776c714680a6)
 ![Screenshot 2023-07-12 220138](https://github.com/WayanDev/online-course/assets/113874200/2815ca23-9275-4a58-b706-bacafca2b2aa)
